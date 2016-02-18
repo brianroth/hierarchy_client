@@ -1,0 +1,11 @@
+require 'multi_json'
+require 'net/http'
+require 'net/https'
+
+require 'infor-ruby/rest/errors'
+require 'infor-ruby/rest/client'
+require 'infor-ruby/rest/list_resource'
+require 'infor-ruby/rest/instance_resource'
+require 'infor-ruby/rest/hierarchies'
+require 'infor-ruby/rest/hierarchy_levels'
+require 'infor-ruby/rest/hierarchy_nodes'
